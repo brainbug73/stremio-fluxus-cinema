@@ -1,0 +1,48 @@
+{
+  "style": {
+    "title": "Display Style",
+    "type": "select",
+    "options": ["Catalogs", "Channels"],
+    "default": "Catalogs"
+  },
+  "show_0": {
+    "title": "English",
+    "type": "boolean",
+    "default": true
+  },
+  "show_1": {
+    "title": "German",
+    "type": "boolean",
+    "default": true
+  },
+  "show_2": {
+    "title": "French",
+    "type": "boolean",
+    "default": true
+  },
+  "show_3": {
+    "title": "Italian",
+    "type": "boolean",
+    "default": true
+  },
+  "show_4": {
+    "title": "Spanish",
+    "type": "boolean",
+    "default": true
+  },
+  "show_5": {
+    "title": "Portuguese",
+    "type": "boolean",
+    "default": true
+  },
+  "show_6": {
+    "title": "Japanese",
+    "type": "boolean",
+    "default": true
+  },
+  "show_7": {
+    "title": "Arabic",
+    "type": "boolean",
+    "default": true
+  }
+}
